@@ -12,7 +12,7 @@ r2lUnivFactor <- function(x,tabTitle,textBefore="",textAfter="",graphDir="graphU
     cat(r2lBuildRow(x=c(r2lBold("Frequency",out),r2lBold("Histogram",out)),hline=FALSE,out=out))
     rowTxt <- r2lBuildRow(x=c(
         r2lUnivFrequency(x, out=out),
-        #r2lGraphBarplot(x, graphDir=graphDir, graphName=graphName, type=type, out=out)
+        # r2lGraphBarplot(x, graphDir=graphDir, graphName=graphName, type=type, out=out)
     ),out=out)
     cat(rowTxt)
     cat(r2lEndStruct(out=out))
