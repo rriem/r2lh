@@ -1,9 +1,9 @@
-Package: r2lh
+Package: r2lh-rr
 Type: Package
 Title: R to LaTeX and HTML
-Version: 0.7
-Date: 2010-07-07
-Author: Christophe Genolini, Bernard Desgraupes, Lionel Riou Franca
+Version: 0.7.1
+Date: 2015-04-02
+Author: Christophe Genolini, Bernard Desgraupes, Lionel Riou Franca, Romuald Riem
 Maintainer: Christophe Genolini <genolini@u-paris10.fr>
 Description: generate univariate and bivariate analyses in LaTeX or
         HTML formats
